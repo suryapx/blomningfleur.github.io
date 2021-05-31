@@ -33,7 +33,7 @@ body {
   .top-wrapper {
     padding: 180px 0 100px 0;
     background-image: url(https://i.ibb.co/QP0gKMk/lanscape2.jpg);
-    background-size: cover;
+    background-size: contain;
     color: black;
     text-align: center;
     text-shadow: 2px 2px 5px white;
@@ -69,6 +69,7 @@ body {
   
 .footer {
     margin:10px;
+    text-align: center;
 
 }
   
