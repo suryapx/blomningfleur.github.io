@@ -32,8 +32,9 @@ body {
   
   .top-wrapper {
     padding: 180px 0 100px 0;
+    height:1000px;
     background-image: url(https://i.ibb.co/QP0gKMk/lanscape2.jpg);
-    background-size: contain;
+    background-size: cover;
     color: black;
     text-align: center;
     text-shadow: 2px 2px 5px white;
