@@ -14,7 +14,7 @@ body {
   }
 
   header {
-    height: 80 px;
+    height: 50 px;
     width: 100%;
     /*background-color: rgba(0, 0, 0, 0.9);
     /* Change the position property to fixed, and top property to 0 */
@@ -32,7 +32,7 @@ body {
   
   .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(https://i.ibb.co/ysq51QY/landscape1.jpg);
+    background-image: url(https://i.ibb.co/QP0gKMk/lanscape2.jpg);
     background-size: cover;
     color: black;
     text-align: center;
